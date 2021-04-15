@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.42f56768.chunk.css",
+    "main.js": "/myportfolio/static/js/main.51b6f9e6.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.51b6f9e6.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.70c763bf.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.70c763bf.js.map",
+    "static/js/2.647e9b37.chunk.js": "/myportfolio/static/js/2.647e9b37.chunk.js",
+    "static/js/2.647e9b37.chunk.js.map": "/myportfolio/static/js/2.647e9b37.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/css/main.42f56768.chunk.css.map": "/myportfolio/static/css/main.42f56768.chunk.css.map",
+    "static/js/2.647e9b37.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.647e9b37.chunk.js.LICENSE.txt",
+    "static/media/chess_icon.fb7e2b52.png": "/myportfolio/static/media/chess_icon.fb7e2b52.png",
+    "static/media/chess_scene.a9c1a550.png": "/myportfolio/static/media/chess_scene.a9c1a550.png",
+    "static/media/github_icon.ad557904.png": "/myportfolio/static/media/github_icon.ad557904.png",
+    "static/media/guitar_icon.836d32c7.png": "/myportfolio/static/media/guitar_icon.836d32c7.png",
+    "static/media/guitarhelper_scene.6b2a7b7b.PNG": "/myportfolio/static/media/guitarhelper_scene.6b2a7b7b.PNG",
+    "static/media/menu_icon.6072cb42.png": "/myportfolio/static/media/menu_icon.6072cb42.png",
+    "static/media/index.css": "/myportfolio/static/media/paper_bg.7be126de.jpg",
+    "static/media/shelf.21a19974.png": "/myportfolio/static/media/shelf.21a19974.png",
+    "static/media/tetris_scene.e8a36c08.png": "/myportfolio/static/media/tetris_scene.e8a36c08.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70c763bf.js",
+    "static/js/2.647e9b37.chunk.js",
+    "static/css/main.42f56768.chunk.css",
+    "static/js/main.51b6f9e6.chunk.js"
+  ]
+}
